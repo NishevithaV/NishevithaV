@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27" />
 
-<!--
-**NishevithaV/NishevithaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [**Nishevitha**](https://www.nishevithavenkatesh.com/), a third-year computer science student building software in Canada. 
 
-Here are some ideas to get you started:
+I’ve previously interned at [**Morgan Stanley**](https://github.com/morganstanley) in a full-stack capacity, and I’m returning for another internship this winter. I’m interested in building production-ready software and shipping reliable systems with real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of coursework and internships, I’m passionate about building the tech community. We created a space called [**WATT Wire**](https://www.linkedin.com/company/w-a-t-t-wire/), a weekly micro-publication focused on technical breakdowns, engineering thinking, and conversations with women in tech across various industries. 
+
+I also speak at conferences, panels, and workshops on topics ranging from DevOps culture to blockchain, AI, and emerging technologies. I hold the AWS Certified Cloud Practitioner certification and enjoy learning in public through writing, speaking, and mentoring.
+
+#### Let's connect!
+[<img alt="WATT Wire" src="https://img.shields.io/badge/WATT%20Wire-6F42C1.svg?&style=for-the-badge&logo=Lightning&logoColor=white" />](https://www.linkedin.com/company/w-a-t-t-wire/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/nishevitha-venkatesh/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:nishevitha.v@gmail.com)
