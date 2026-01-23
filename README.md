@@ -2,7 +2,7 @@
 
 I'm [**Nishevitha**](https://www.nishevithavenkatesh.com/), a third-year computer science student building software in Canada. 
 
-I’m currently working on AI/ML systems at [**Morgan Stanley**](https://github.com/morganstanley), after previously interning there as a full-stack engineer. I’m interested in building production-ready software and shipping reliable systems with real-world impact.
+I’m currently working on AI/ML systems at [**Morgan Stanley**](https://github.com/morganstanley) this winter, after previously interning there as a full-stack engineer. I’m interested in building production-ready software and shipping reliable systems with real-world impact.
 
 Outside of coursework and internships, I’m passionate about building the tech community. We created a space called [**WATT Wire**](https://www.linkedin.com/company/w-a-t-t-wire/), a weekly micro-publication focused on technical breakdowns, engineering thinking, and conversations with women in tech across various industries. 
 
