@@ -9,6 +9,7 @@ I also co-founded [**WATT Wire**](https://www.linkedin.com/company/w-a-t-t-wire/
 Outside of coding, I speak at conferences and workshops on all things tech, infra, and startup engineering.
 
 #### Let's connect!
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-4B5563.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@nishevitha.v)
 [<img alt="WATT Wire" src="https://img.shields.io/badge/WATT%20Wire-6F42C1.svg?&style=for-the-badge&logo=Lightning&logoColor=white" />](https://www.linkedin.com/company/w-a-t-t-wire/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/nishevitha-venkatesh/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:nishevitha.v@gmail.com)
