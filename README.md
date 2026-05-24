@@ -1,12 +1,14 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27" />
 
-I'm [**Nishevitha**](https://www.nishevithavenkatesh.com/), a third-year computer science student building software in Canada. 
+I'm [**Nishevitha**](https://www.nishevithavenkatesh.com/), and I enjoy building products, exploring AI systems and infrastructure, and talking directly with users to turn pain points into solutions. 
 
-I’m currently working on AI/ML systems at [**Morgan Stanley**](https://github.com/morganstanley) this winter, after previously interning there as a full-stack engineer. I’m interested in building production-ready software and shipping reliable systems with real-world impact.
+I’ve previously interned at [**Morgan Stanley**](https://github.com/morganstanley) twice, first as a full-stack engineer shipping client-facing platform enhancements to production, and later as an AI systems engineer building autonomous workflows and document intelligence systems.
+
+I also co-founded [**WATT Wire**](https://www.linkedin.com/company/w-a-t-t-wire/), a micro-publication and community around engineering, AI systems, and women in tech. 
 
 Outside of coursework and internships, I’m passionate about building the tech community. We created a space called [**WATT Wire**](https://www.linkedin.com/company/w-a-t-t-wire/), a weekly micro-publication focused on technical breakdowns, engineering thinking, and conversations with women in tech across various industries. 
 
-I also speak at conferences, panels, and workshops on topics ranging from DevOps culture to blockchain, AI, and emerging technologies. I hold the AWS Certified Cloud Practitioner certification and enjoy learning in public through writing, speaking, and mentoring.
+Outside of coding, I speak at conferences and workshops on all things tech, infra, and startup engineering.
 
 #### Let's connect!
 [<img alt="WATT Wire" src="https://img.shields.io/badge/WATT%20Wire-6F42C1.svg?&style=for-the-badge&logo=Lightning&logoColor=white" />](https://www.linkedin.com/company/w-a-t-t-wire/)
