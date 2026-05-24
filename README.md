@@ -6,8 +6,6 @@ I’ve previously interned at [**Morgan Stanley**](https://github.com/morganstan
 
 I also co-founded [**WATT Wire**](https://www.linkedin.com/company/w-a-t-t-wire/), a micro-publication and community around engineering, AI systems, and women in tech. 
 
-Outside of coursework and internships, I’m passionate about building the tech community. We created a space called [**WATT Wire**](https://www.linkedin.com/company/w-a-t-t-wire/), a weekly micro-publication focused on technical breakdowns, engineering thinking, and conversations with women in tech across various industries. 
-
 Outside of coding, I speak at conferences and workshops on all things tech, infra, and startup engineering.
 
 #### Let's connect!
